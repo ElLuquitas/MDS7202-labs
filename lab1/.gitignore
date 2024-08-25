@@ -1,8 +1,0 @@
-# Carpetas a ignorar
-videos/
-
-# Extensiones a ignorar en una carpeta específica
-textos/*.txt
-
-# Archivos a no ignorar en una carpeta específica
-!textos/171.txt
