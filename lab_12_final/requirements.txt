@@ -1,0 +1,8 @@
+fastapi==0.115.5       # API web
+pydantic==1.10.8      # Validación de datos (dependencia de FastAPI)
+xgboost==2.1.1       # Modelo XGBoost
+uvicorn==0.23.0       # Servidor ASGI para FastAPI
+pandas==1.5.3         # Manejo de datos
+gradio==3.41.2
+requests==2.32.3
+Pillow==10.3.0
